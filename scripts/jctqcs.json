@@ -1,13 +1,13 @@
 {
     "id": "shaolin-kongfu1.app.sub",
-    "name": "1少林功夫boxjs订阅",
+    "name": "水果天气boxjs订阅",
     "author": "@shaolin-kongfu",
     "icon": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/kongfu.jpg",
     "repo": "https://github.com/shaolin-kongfu/js_scripts",
     "apps": [
       {
       "id": "jctqKkz",
-      "name": "晶彩天气看看赚",
+      "name": "水果天气看看赚",
       "keys": [
         "jctqLookStartbody"
       ], 
@@ -21,7 +21,7 @@
     },
     {
       "id": "jctqRead",
-      "name": "晶彩天气自动阅读",
+      "name": "水果天气自动阅读",
       "keys": [
         "jctqwzbody",
         "jctqtimebody"
@@ -35,7 +35,7 @@
     },
     {
       "id": "jctqSign1",
-      "name": "晶彩天气日常",
+      "name": "水果天气日常",
       "keys": [
         "jctqBubbleBody",
         "jctqGiveBoxBody",
@@ -79,7 +79,7 @@
      },
     {
       "id": "jctq_withdraw",
-      "name": "晶彩天气提现",
+      "name": "水果天气提现",
       "keys": 
         ["jctqwithdraw","jctqWithdrawFlag"],
   "settings": [{
