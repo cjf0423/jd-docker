@@ -9,8 +9,7 @@
       "id": "jctqKkz",
       "name": "晶彩天气看看赚",
       "keys": [
-        "jctqLookStartbody",
-          "jctq_cookie"
+        "jctqLookStartbody"
       ], 
       "repo": "https://github.com/leafxcy/JavaScript/blob/main/jctq/jctq_kkz.js",  
       "script": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/jctq/jctq_kkz.js", 
@@ -25,7 +24,7 @@
       "name": "晶彩天气自动阅读",
       "keys": [
         "jctqwzbody",
-        "jctq_timebody"
+        "jctqtimebody"
       ], 
       "repo": "https://github.com/leafxcy/JavaScript/blob/main/jctq/jctq_read.js", 
       "script": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/jctq/jctq_read.js", 
@@ -35,11 +34,13 @@
       ]
     },
     {
-      "id": "jctqSign",
+      "id": "jctqSign1",
       "name": "晶彩天气日常",
       "keys": [
         "jctqBubbleBody",
-        "jctqGiveBoxBody"
+        "jctqGiveBoxBody",
+        "jctqGoldBody",
+        "jctqVideoBody"
       ], 
       "repo": "https://github.com/leafxcy/JavaScript/blob/main/jctq/jctq_daily.js",
       "script": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/jctq/jctq_daily.js",     
@@ -49,10 +50,25 @@
       ]
     },
     {
+      "id": "jctqSign2",
+      "name": "水果天气任务签到",
+      "keys": [
+        "jctqBoxbody",
+        "jctqQdBody",
+        "jctqSignDoubleBody"
+      ], 
+      "repo": "https://github.com/leafxcy/JavaScript/blob/main/jctq/jctq_reward.js",
+      "script": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/jctq/jctq_reward.js",     
+      "icons": [ 
+        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
+        "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
+      ]
+    },
+    {
       "id": "jctqCookie",
       "name": "晶彩天气火爆转发&好友签到红包&福利视频",
       "keys": [
-        "jctq_cookie"
+        "jctqcookie"
       ], 
       "repo": "https://github.com/leafxcy/JavaScript/tree/main/jctq",
       "script": "https://github.com/leafxcy/JavaScript/tree/main/jctq",     
@@ -65,9 +81,9 @@
       "id": "jctq_withdraw",
       "name": "晶彩天气提现",
       "keys": 
-        ["jctq_withdraw","jctq_cash"],
+        ["jctqwithdraw","jctqWithdrawFlag"],
   "settings": [{
-          "id": "jc_cash", 
+          "id": "jctqWithdrawFlag", 
           "val": "0.3", 
           "name": "提现金额", 
           "type": "radios", 
@@ -85,8 +101,8 @@
         }
         ],
   
-      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jc_withdraw.js",
-      "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jc_withdraw.js",     
+      "repo": "https://github.com/leafxcy/JavaScript/blob/main/jctq/jctq_reward.js",
+      "script": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/jctq/jctq_reward.js",     
       "icons": [ 
       "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
       "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
