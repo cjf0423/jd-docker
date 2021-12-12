@@ -5,6 +5,45 @@
     "icon": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/kongfu.jpg",
     "repo": "https://github.com/shaolin-kongfu/js_scripts",
     "apps": [
+       {
+      "id": "zqfbjl",
+      "name": "中青奖励翻倍",
+      "keys": [
+        "zqfbjlbody"
+      ], 
+      "repo": "https://github.com/liuqi6968/-/blob/main/zq_fbjl.js",
+      "script": "https://raw.githubusercontent.com/liuqi6968/-/main/zq_fbjl.js",     
+      "icons": [ 
+      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
+      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
+      ]
+        },
+        {
+      "id": "zqercibox",
+      "name": "中青看点5分钟60分钟任务领取",
+      "keys": [
+        "zqerciboxbody"
+      ], 
+      "repo": "https://github.com/cjf935257177/QuantumultX/blob/master/script/Scheduled%20Tasks/zq_5_60.js",
+      "script": "https://raw.githubusercontent.com/cjf935257177/QuantumultX/master/script/Scheduled%20Tasks/zq_5_60.js",     
+      "icons": [ 
+      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
+      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
+      ]
+        },
+        {
+      "id": "jcercibox",
+      "name": "晶彩看点5分钟60分钟任务领取",
+      "keys": [
+        "jcerciboxbody"
+      ], 
+      "repo": "https://github.com/liuqi6968/-/blob/main/Jc_5_60.js",
+      "script": "https://raw.githubusercontent.com/liuqi6968/-/main/Jc_5_60.js",     
+      "icons": [ 
+      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
+      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
+      ]
+        },
       {
       "id": "jctqKkz",
       "name": "水果天气看看赚",
@@ -97,45 +136,6 @@
               "label": "30元"
             }
           ]
-        },
-        {
-      "id": "zqfbjl",
-      "name": "中青奖励翻倍",
-      "keys": [
-        "zqfbjlbody"
-      ], 
-      "repo": "https://github.com/liuqi6968/-/blob/main/zq_fbjl.js",
-      "script": "https://raw.githubusercontent.com/liuqi6968/-/main/zq_fbjl.js",     
-      "icons": [ 
-      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
-      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
-      ]
-        },
-        {
-      "id": "zqercibox",
-      "name": "中青看点5分钟60分钟任务领取",
-      "keys": [
-        "zqerciboxbody"
-      ], 
-      "repo": "https://github.com/cjf935257177/QuantumultX/blob/master/script/Scheduled%20Tasks/zq_5_60.js",
-      "script": "https://raw.githubusercontent.com/cjf935257177/QuantumultX/master/script/Scheduled%20Tasks/zq_5_60.js",     
-      "icons": [ 
-      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
-      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
-      ]
-        },
-        {
-      "id": "jcercibox",
-      "name": "晶彩看点5分钟60分钟任务领取",
-      "keys": [
-        "jcerciboxbody"
-      ], 
-      "repo": "https://github.com/liuqi6968/-/blob/main/Jc_5_60.js",
-      "script": "https://raw.githubusercontent.com/liuqi6968/-/main/Jc_5_60.js",     
-      "icons": [ 
-      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png",
-      "https://cdn.jsdelivr.net/gh/NANXIAO1971/ceshi@main/picture/jckd1.png"
-      ]
         }
         ],
   
