@@ -138,7 +138,7 @@ Object.keys(zq_cookies).forEach((item) => {
 function withdraw(zq_withdraw1,timeout = 0) {
     return new Promise((resolve) => {
         let url = {
-            url : 'https://kandian.wkandian.com/v5/alipay/withdraw2.json',
+            url : 'https://kandian.wkandian.com/v5/alipay/withdraw.json',
             headers : {
             'request_time': time1,
             'device-platform': 'android' ,
@@ -173,7 +173,7 @@ function withdraw(zq_withdraw1,timeout = 0) {
 
 
 function getbody() {
-    if ($request.url.match(/\/kandian.wkandian.com\/v5\/alipay\/withdraw2.json/)) {
+    if ($request.url.match(/\/kandian.wkandian.com\/v5\/alipay\/withdraw.json/)) {
           bodyVal=$request.body
             console.log(bodyVal)
         if (zq_withdraw) {
